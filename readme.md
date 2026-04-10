@@ -1,10 +1,12 @@
-# NWL Sports 🌐
+# Meu Projeto Web 🌐
 
 ![preview](./.github/preview.png)
 
-> Tha Explorer
+> Guilherme Ferreira
 
-Projeto construído no evento Next Level Week da Rockseat.
+Projeto desenvolvido durante meus estudos em Sistemas de Informação na PUC Minas - Betim.
+
+🔗 [Clique aqui para acessar](https://guilhermemarquesf.github.io/projeto-completo/)
 
 ---
 
@@ -12,28 +14,29 @@ Projeto construído no evento Next Level Week da Rockseat.
 
 - HTML
 - CSS
-- Git e Github
+- JavaScript
+- Git e GitHub
 
-## Contatos
+---
 
-- E-mail: desenvjonathan@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/# NLW eSports 
+## 💻 Projeto
+
+Este projeto é uma página web pessoal com:
+- Foto de perfil
+- Links para redes sociais
+- Modo claro/escuro
+- Interface inspirada no NLW Explorer
+
+---
+
+## 📸 Preview
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer
+---
 
-Projeto construído no evento Next Level Week da Rockseat.
+## 📬 Contato
 
-[Clique aqui para acessar](https://desenvjonathan.github.io/nlw-esports-explorer/)
-
-## Tecnologias
-
-- HTML
-- CSS
-- Git e Github
-
-## Contatos
-
-- E-mail: desenvjonathan@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/
+- Instagram: https://www.instagram.com/guiilhermemf_/
+- LinkedIn: https://www.linkedin.com/in/guilherme-ferreira-6090403b5/
+- GitHub: https://github.com/Guilhermemarquesf
