@@ -52,14 +52,13 @@ h1 {
 }
 
 p {
-    color: rgb(0, 0, 0);
+    color: var(--text-color);
     text-align:center;
     font-family: "lato", sans-serif;
     padding: 15px;
     background-color: #fbfffe61;
     transition: opacity 0.6;
     border-radius: 50px;
-
 }
 
 #container {
