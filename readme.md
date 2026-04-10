@@ -2,11 +2,9 @@
 
 ![preview](./.github/preview.png)
 
-> Guilherme Ferreira
+> Tha Explorer
 
-Projeto desenvolvido durante meus estudos no curso da Rokeatseat.
-
-🔗 [Clique aqui para acessar](https://guilhermemarquesf.github.io/projeto-completo/)
+Projeto construído no evento Next Level Week da Rockseat.
 
 ---
 
@@ -14,29 +12,28 @@ Projeto desenvolvido durante meus estudos no curso da Rokeatseat.
 
 - HTML
 - CSS
-- JavaScript
-- Git e GitHub
+- Git e Github
 
----
+## Contatos
 
-## 💻 Projeto
-
-Este projeto é uma página web pessoal com:
-- Foto de perfil
-- Links para redes sociais
-- Modo claro/escuro
-- Interface inspirada no NLW Explorer
-
----
-
-## 📸 Preview
+- E-mail: desenvjonathan@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/# NLW eSports 
 
 ![preview](./.github/preview.png)
 
----
+> Trilha Explorer
 
-## 📬 Contato
+Projeto construído no evento Next Level Week da Rockseat.
 
-- Instagram: https://www.instagram.com/guiilhermemf_/
-- LinkedIn: https://www.linkedin.com/in/guilherme-ferreira-6090403b5/
-- GitHub: https://github.com/Guilhermemarquesf
+[Clique aqui para acessar](https://desenvjonathan.github.io/nlw-esports-explorer/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+## Contatos
+
+- E-mail: desenvjonathan@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/

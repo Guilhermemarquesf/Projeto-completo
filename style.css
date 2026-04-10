@@ -25,13 +25,10 @@
 }
 
 body {
-   
     background: var(--bg-url);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-
-    
 }
 
 body *{
@@ -45,43 +42,41 @@ body *{
 h1 {
     color: white;
     text-align: center;
-    text-decoration:  underline; 
+    text-decoration: underline; 
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 4px 4px 4px #000000;
-
 }
 
 p {
-    color: var(--text-color);
+    color: rgb(0, 0, 0);
     text-align:center;
     font-family: "lato", sans-serif;
     padding: 15px;
     background-color: #fbfffe61;
-    transition: opacity 0.6;
+    transition: opacity 0.6s; /* CORRIGIDO */
     border-radius: 50px;
 }
 
 #container {
     width: 300px;
     margin: 56px auto 0px;
-    
 }
 
 /* profile */
 
 #profile{
     text-align: center;
-
 }
 
 #profile img{
-        width: 200px;
-        height: 150px;
-        border-radius: 50%;
-        border: 2px solid #000000;        
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #000000;        
 }
 
-#profile p2{
+/* CORRIGIDO: p2 não existe */
+#profile p{
     font-weight: 500;
     line-height: 24px;
     text-align: center;
@@ -94,7 +89,6 @@ p {
 #switch {
     position: relative;
     width: 64px;
-
     margin: 4px auto;
 }
 
@@ -123,9 +117,7 @@ p {
     height: 24px;
     background: var(--surface-color);
     border: 1px solid var(--stroke-color);
-    /* Versão para navegadores Safari antigos/específicos */
     -webkit-backdrop-filter: blur(4px);
-    /* Versão padrão (recomendada) */
     backdrop-filter: blur(4px);
     border-radius: 9999px;
 }
@@ -134,14 +126,10 @@ p {
 
 ul {
     list-style: none;
-
     display: flex;
     flex-direction: column;
     gap: 16px;
-
     padding: 24px 0;
-
-
 }
 
 ul li a {
@@ -173,9 +161,7 @@ ul li a:hover {
     display: flex;
     justify-content: center;
     gap: 16px;
-
     padding: 10px 0;
-
     font-size: 30px;
 }
 
@@ -184,14 +170,12 @@ ul li a:hover {
     align-items: center;
     justify-content: center;
     padding: 16px;
-
     transition: background 0.2s;
     border-radius: 50%; 
 }
 
 #social-links a:hover {
     background: var(--highlight-color); 
-      
 }
 
 footer {
@@ -199,11 +183,3 @@ footer {
     text-align: center;
     font-size: 14px;    
 }
-
-
-
-
-
-
-
-
