@@ -53,7 +53,7 @@ p {
     font-family: "lato", sans-serif;
     padding: 15px;
     background-color: #fbfffe61;
-    transition: opacity 0.6s; /* CORRIGIDO */
+    transition: opacity 0.6s;
     border-radius: 50px;
 }
 
@@ -76,7 +76,6 @@ p {
     border: 2px solid #000000;        
 }
 
-/* CORRIGIDO: p2 não existe */
 #profile p{
     font-weight: 500;
     line-height: 24px;
@@ -85,7 +84,7 @@ p {
     margin-top: 8px;
 }
 
-/* switch */
+/* SWITCH (CORRIGIDO APENAS AQUI) */
 
 #switch {
     position: relative;
@@ -102,15 +101,15 @@ p {
 
     position: absolute;
     top: 50%;
-    right: 0;
+    left: 0; /* alterado */
     z-index: 1;
-    transform: translateY(-50%);
 
-    animation: slide-back 0.2s;
+    transform: translateY(-50%);
+    transition: transform 0.3s; /* alterado */
 }   
 
 .light #switch button {
-    animation: slide-in 0.4s forwards;
+    transform: translate(32px, -50%); /* alterado */
 }
 
 switch button :hover {
@@ -202,7 +201,7 @@ footer {
     }
 }
 
-/* animation */
+/* animation (mantido igual) */
 
 @keyframes slide-in {
     from {
