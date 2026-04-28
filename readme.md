@@ -4,7 +4,7 @@
 
 > Guilherme Ferreira
 
-Projeto desenvolvido durante meus estudos em Sistemas de Informação na PUC Minas - Betim.
+Projeto desenvolvido durante meus estudos em Sistemas de Informação na PUC Minas - Betim e no curso da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://guilhermemarquesf.github.io/projeto-completo/)
 
